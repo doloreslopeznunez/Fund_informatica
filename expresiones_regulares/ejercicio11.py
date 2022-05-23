@@ -1,7 +1,10 @@
 import re
-lista_strings = ["Práctica Python", "Práctica C++", "Práctica Fortran"]
-patron = "(P\w*)\s(P\w*)"
-for string in lista_strings:
-    coincidencia=re.search(patron, string)
-if coincidencia is not None:
-        print(coincidencia.group())
+lista = ["Práctica Python", "Práctica C++", "Práctica Fortran", "Pasdfghjk Pfghb"]
+def empiezanP(lista):
+    patron = "(P\w*)\W(P\w*)"
+    for elemento in lista:
+        resultado = re.match(patron, elemento)
+        if resultado is not None:
+            print(resultado.group())
+
+empiezanP(lista)
