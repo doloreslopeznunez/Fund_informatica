@@ -1,0 +1,81 @@
+!DOCTYPE html>
+<!-- saved from url=(0074)http://127.0.0.1:5500/Fundamentos_de_informatica-1/WEB_&_HTTP/mi_html.html -->
+<html lang="en"><!--etiqueta que se usa una sola vez, aparece al final para cerrar. osea que tiene una etiqueta de apertura y una de cerrado--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Aca va el titulo_files/style.css">
+    <title>Aca va el titulo</title>
+</head>
+<body>
+    <main>
+    <section class="titulo">
+        <h1>
+            Titulo de la pagina
+        </h1>
+        <p>
+            <strong>Texto<br> de prueba</strong></p><strong>   
+    </strong></section><strong>
+
+    <section class="galeria">
+        <h4>Galeria de fotos</h4>
+    <img src="data:image/png;base64,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" alt="UCEMA">
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUMAAACcCAMAAADS8jl7AAAAtFBMVEX///+PACiHAACOACaLABu6d4WNACCRACTt192nUGGKABW2bXyJAA2NACPbuMCBAADy4eWWBzKlQFfu4uTMmqSoW2f47vGKABfewceJABGIAAD9+PrPoqyIAAjy4OW6f4ieK0bRrrO8iI/mytGUGTV3AADXu76wYHHFjJidLkegQ1TVrLXGk53AhpHfvcWYHzyqVWahS1nkz9O6c4OxZ3WjOlOUIzncxcfUsbeaETqzXnK/fIuQR6Z0AAAKH0lEQVR4nO2ba3uiuhpAMSBFCuJtQERad3Gm9d6xde+e6f//X4ckb0ICuNWOZ+Q8z7s+tGkSYljmDjUMBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQpEkkvcQwwp4MGuyHETr0Zy+kQRYT9nJYUv47FFdnXZYPsmtJRvYAAXGhRImgpfZ4SM+TXz/mZbFPDnmoqA8NZOVLbsTw+w/D+GnR2jhBJ7+V7yMa3f5Ofy6DPH5u0WA/CILvUxoiJAjcLbv4V0CCAb10HTARfp6pP+YFO4HHA0keGQx6xUeGLGJIgz1Ci2Vmvv+l1Wtv5SkbGnqh2Wc09Eh/JSSAnMtgdUURv8EwyB1+mzOHMXkxegET9UjozyyvZRYwqbPFg+Ow1hAtnWzWpyEn2Bpjln1EmKP5s7OdEd7+7mPSZYEkeHFWbqtoM2Hw5KzsHfv09N5x9jxScxjGi/1w06HBtbd1HNbOn6J0bKzjmOd8IO7h6jq+hOrQ25EsVB0au4XxTJi52WI/HjMP7qthdFzW7YPlijUn6bBNI9c0GHrvnQVLS2hzWQX/yI9kuj4Cqm6YPmfjTEYWrANHBr0VdOsn018a877Hc7a9UZBdV8YXUR2S1aHlaA7XJLOeWWhB+xYTZu3eXj0e2d0FhLVSxaER3LOYoDcmrIUxh+xjAKbLCWifH0Zx3vtlZMFTIAfWtZt3d9Zrn/ov5BcZEZYztN6N+etVXXyVIXW2/JsGHfIRxjNPdRjG/ZR/17ODkfDuaP39M13AxUbv1aY3qzjc8y/Bcu9sj9lkDkes2XGYrhVraMPJZ8KLLTkcBflAwFPWngOf/GQldjRLeM5palk26RkNIOnPt2vCbjZ3aHyQmDsMePJrtOOB2eyfHz9Y//IejXvCJo5VsNl3THp/wuGvbNqKqdRu8Dga8WEgCTbZC1kUHxnmEY9kSYN5X86LZXNK8Ajl8zyWNf1YsDzrdPXjB/u8JzevVxcc7naj0Tra/E+kXIqzI5MO+54d2mA2geZwzGcUwzi0omjCakzaRjJ3mZ12i8zZ3YHD2Z3bemWhJXUWxnRoTLw7d95WliEhjfjk66Q7M4rYF5JHRpOXItNwMCE71gXWthW5/2GVmhjhGlrsls1Yb/1mLG+S4VAElPUhxBlDsRijsPAwpMmJcgn9LTKJ7LyUUI81jFI2pdiwnG0oymZ5lEqx+CQ05E8EQRDk/5ck2W+72+1DM+bE2/PWZtyXJrgXiN5XLgi797sJ8XKId2iP9cR1+whvW8gxfZNR40rZxkZecD+sporkt7q0GzKJLEpQWvAfYhYNxwYF4afpWX6LY/qW1x+prfEnv6wKgWWm8Z6KKHdeqUxG5AXFfrlgD8nk8Xfu+PrEJtNR3jQNbBbtlRyOrMhsafheX8nTsVv1uMLhvSXjyoXnu6LiclLj8BmSzahZo8glDsOlVzLILb7LHBc5tJelujikuKDGYSiT+X60MVzg0LGL+1cx3aUYTS9y2CKlo6tnNa3qcBPJr213rdu/Cuc7dOQ4WMFagMTLHJYaYi9WWnnVYdIvkr2a+eh2nO1wqCg0bTeOYyUihoM84dA+OqeoDlupJqqtJlUdrjzFfjMODoGzHR5kE/O9u+dpzuPOs/jVdktvh/br273OuyhIc2i9Kx8ZuupgW3U4U7tBMw4OgXMdbmLZjw5irWc47ZTemG+Kq8Ghd/yMXnNopg9FSjHc1TrMiJpstb98x9fnTIc9Ao3ElL2S4eysPEquxIXD48OV5rBlvcmE0Nbm/IrDZ22oNf0GnXqd6VDcummV9XRcb1v8caFDkxSPTWI1oeKwBz3dhB7dpOXNeQ5lIyHVR7oHpWFe6rAlD/PVWbfOIfR0s3XgEpu0vDnP4RTmRG0SqOFih+ZdqH/CEYcJ1NN+76WQYVtT+m04zyEMRqZ7Yjo836Fo2DG0YtEMfdHgdYdiYZMvyxe8IVZ2ObfjPIcmtIJTy7Kz52X7FxRpuixaOPKXM7POIYjzZ4bR5Q3R9Gp21LfhLIdip3pyIAeH/vKbzqfMAQ7dqZhneZkwyuXtbFfncAyK04+8W895juYsb85ymMEYlJ56N0PsU3xbwx3IHNKhOGCgTcvYwh92R3Rq3SEc6PjsfYwXlzfEqCnLm7McbsVo9FBTgsqR/bLdkTmEw5HMm3aLZpgPAnUOe6A4Yg+gQzg9ikflj78RZznsCoenvvlLHGagIl+liD0InSfqHH5G2ufD+Y7Zv8L9X4PLHJ7apV7i0FhCZpJ9k6FahyHMP/D6lLEH5dVD3NsQ19sZ+GotLx4Pz3IoWp+5E9M+Xa7UOJxCJeVMDPaVYm8KnLyUj0PhkAS2cWI8ij9OlCYcukSneNlScSgbIijky8oah1AZf9DjhCPo25NmLG+gyl5p1X/Ho1NYLMPQZT+fKA0cutOeo1G0ctXhWN+b2AOlQorDsTyxuYN5vgXSrftrKPhtYPHq6nNcAtUWdwItxjRPTCpn71P45w20rs9fyKs6LA8QplCYr7MbsbwR+wZ9aBEDIIEHaC/Qedz1v5d2ocOxeibIm2HV4YP6iKCE24jlzUgsWLVJBY7l5eGIA53ZnFRWiGFHeVB5oUO5LmQX8eGk4rCtnc3q+LsmPCXdT3httKFlCDv/IlL0On9WqnSySA9F1KUOx2mhA96ULTtMrOPNkC/Qb06yEztVpTYDu1xD2evsvjYX7udWyyq8XupQaYgErik7HImzWVMHzDfi3yseRVeRC5fk1YVaK/9UIod/33qRscN2TB1Y8kYudtgV341ohhWHc7AceTriq2/C8iYsnpS8jsMk7E3lo3hXeT+6J7uU6abv0/Ew664PBCKjAWgVa5vVsALkKDk0RDeQi6uSQ7FVT7v8nWIJuD11Kvxn2MhVmp3e/T133UKWOvZ1AzkumXacktSLiglBvPkuliExKRPAZFR2CKeBshmWHYrTtMrR/xomQ6sRy5tBcTxv+mZhiug9cpoeHdyJOB88+p6DGR9xCAvU4mRfdyhOyKpnNOIRj9pZbkfYr3uPxiTlyk1JvUQl5xccrojv+3bRzHSHb3BEE1db2zskWdd08WXCg3uGwnxybtXJtv3iWd8XHBqLnHmxKNAcincf6s6sRRP1Tm3i/wzJM9GfkLeiqG5qDSv5TJsMlLdSv+LQSODfzTiaQ9gB1B/+itObpjycypbFFJFPGVH7yPrfeY3iQqMfeQPtwKdjm0fwhEPXp3hHN2l9n+VnDvPFK/vDqn0W1k150aT6wvON2D/uSD7ZpoTYr6N/OWsNp9/sPB99H5ssNqXVWce6O4Jw+LmbUXZHn271bZafHWt1J3Bx7Xoz2fGs7qnTpD9J8pBtx84Za4Uw63a7230T9qoIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiBI8/gvt3PB0cODylQAAAAASUVORK5CYII=" alt="UCEMA">
+    <p class="pie-de-foto">pie de foto</p>
+    </section>
+</strong></main><strong> 
+<footer>
+    <h3>Contacto</h3>
+    <ul>
+        <li><a href="https://www.instagram.com/?hl=es-la">instagram</a></li>
+    </ul>
+</footer>
+    <h3>Mi lista de materias</h3>
+    <ul>
+        <li><a href="https://github.com/AJVelezRueda/Fundamentos_de_informatica">Fundamentos</a></li>
+        <li><a href="http://127.0.0.1:5500/Fundamentos_de_informatica-1/WEB_&amp;_HTTP/mi_html.html#">Estadistica</a> I la primera</li>
+    </ul>
+<!--alt="nombre de la foto"-->
+<!--img es un tipo de etiqueta unica. tiene un atributo que se llamma scr=-->
+<!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+<!--etiqueta unica: no tiene una etiqueta de cerrado ej en este caso pueden ser "meta" y "DOCTYPE"-->
+<!--img no tiene etiqueta de cierre-->
+<!-- el punto (.) significa la clase --></strong></body></html>
